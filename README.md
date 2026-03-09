@@ -48,7 +48,7 @@ We evaluated our Hybrid models against industry-standard baselines on a dataset 
 ### 2. Trading Simulation (Backtest)
 *Initial Capital: $10,000 | Strategy: Long/Cash | Benchmark: Buy & Hold (SPY)*
 
-* **Total Return:** **+142.5%** (Model) vs +85% (Benchmark)
+* **Total Return:** **+19.5%** (Model) vs + 85% (Benchmark)
 * **Sharpe Ratio:** **1.78** (High risk-adjusted return)
 * **Max Drawdown:** **-12.4%** (Model avoided major market crashes in 2020/2022)
 
