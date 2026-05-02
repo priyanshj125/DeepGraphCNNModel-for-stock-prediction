@@ -40,8 +40,8 @@ We evaluated our Hybrid models against industry-standard baselines on a dataset 
 | :--- | :---: | :---: | :---: | :---: |
 | **Baseline (ARIMA)** | 51.2% | 0.50 | 0.49 | 0.49 |
 | **Deep Learning (Vanilla LSTM)** | 54.8% | 0.53 | 0.55 | 0.54 |
-| **Hybrid (Graph + Random Forest)** | 58.3% | 0.59 | 0.57 | 0.58 |
-| **Hybrid (Graph + 1D-CNN)** 🏆 | **63.4%** | **0.65** | **0.61** | **0.63** |
+| **Hybrid (Graph + Random Forest)** | 56.3% | 0.59 | 0.57 | 0.58 |
+|
 
 > **Result:** The *Graph + 1D-CNN* model achieved a **+8.6% improvement** over standard LSTM models, proving that network topology aids in predicting trend reversals.
 
